@@ -10,7 +10,7 @@ in bash/cmd/powershell type below command:
 >>   python virtual machine.py
 # Then browse for source.asm and choose memory_size   
 ---------------------------------------------
-- make source to give the absoulte path or put all file in one folder
+- make sure to give the absoulte path or put all file in one folder
 = memory_size is multlpy of 4
 	there are a few values that don not work
 	it will be fixed in V1.01
