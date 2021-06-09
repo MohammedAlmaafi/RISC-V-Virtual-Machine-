@@ -16,9 +16,12 @@ in bash/cmd/powershell type below command:
 	it will be fixed in V1.01
 
 
-# contact me:
+# Contact me:
 Mohmmad Almaafi  m.almaafi@gmail.com
 
 
-# requirment packages
-	only base python packages
+# Requirment packages
+	PySimpleGUI + base python packages
+	
+	
+# Not all instructions are added. 
