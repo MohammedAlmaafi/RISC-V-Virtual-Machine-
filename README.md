@@ -5,7 +5,7 @@ This is a simple (VM) for RV32IM including (math extensions and base core) instr
 
 
 # Run Program
-in bash/cmd/powershell type below command:
+- in bash/cmd/powershell type below command:
 ---------------------------------------------
 >>   python virtual machine.py
 # Then browse for source.asm and choose memory_size   
