@@ -18,7 +18,8 @@ This is a simple (VM) for RV32IM including (math extensions and base core) instr
 
 # Contact me:
 Mohmmad Almaafi
--m.almaafi@gmail.com
+
+m.almaafi@gmail.com
 
 
 # Requirment packages
